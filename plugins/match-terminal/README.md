@@ -23,7 +23,7 @@ Connects to the hosted, read-only MCP server at `https://mcp.matchterminal.org/m
 
 - Show yesterday's results for Arsenal.
 - Show match statistics for Fiji vs New Caledonia.
-- Compare strength, scoring, control, passing and defence for [team] vs [opponent].
+- Compare strength, volume, control, passing and defence for [team] vs [opponent].
 
 ## What this plugin sends and runs
 

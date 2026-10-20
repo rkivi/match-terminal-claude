@@ -17,7 +17,7 @@ Use the `match-terminal` MCP tools. All data is read-only and comes from the Mat
 ## Getting details
 
 - `get_match_statistics`: result, team statistics, events and timestamps for the selected match. Where the client shows the Match Terminal card, it also includes available pre-match context.
-- `get_team_ratings`: pre-match breakdown — 30 rolling prior-match metrics and five group ratings (strength, scoring, control, passing, defence) with input coverage.
+- `get_team_ratings`: pre-match breakdown — 30 rolling prior-match metrics and five group ratings (strength, volume, control, passing, defence) with input coverage.
 
 ## Rules
 
