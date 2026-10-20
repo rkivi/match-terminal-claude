@@ -1,0 +1,13 @@
+{
+  "name": "match-terminal",
+  "version": "0.1.0",
+  "description": "Football results, match statistics, and pre-match metric breakdowns from Match Terminal.",
+  "author": {
+    "name": "Rasmus Kivi",
+    "email": "contact@matchterminal.org",
+    "url": "https://matchterminal.org"
+  },
+  "homepage": "https://matchterminal.org",
+  "license": "MIT",
+  "keywords": ["football", "soccer", "scores", "match statistics", "pre-match metrics"]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "match-terminal",
+  "owner": {
+    "name": "Rasmus Kivi",
+    "email": "contact@matchterminal.org"
+  },
+  "metadata": {
+    "description": "Match Terminal plugins for Claude.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "match-terminal",
+      "source": "./plugins/match-terminal",
+      "description": "Football results, match statistics, and pre-match metric breakdowns from Match Terminal.",
+      "version": "0.1.0",
+      "category": "data",
+      "homepage": "https://matchterminal.org",
+      "keywords": ["football", "soccer", "scores", "match statistics", "pre-match metrics"]
+    }
+  ]
+}
